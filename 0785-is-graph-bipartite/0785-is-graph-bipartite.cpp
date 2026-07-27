@@ -4,8 +4,9 @@ public:
         int n = graph.size();
         if(cvis[i] == -1){
             cvis[i] = 1;
-        //     if(!solve(i, cvis, graph))
-        //         return false;
+            if(!solve(i, cvis, graph)){
+                return false;
+            }
         }
         for(auto temp : graph[i]){
             if(cvis[temp] == -1 && cvis[i] == 1){
