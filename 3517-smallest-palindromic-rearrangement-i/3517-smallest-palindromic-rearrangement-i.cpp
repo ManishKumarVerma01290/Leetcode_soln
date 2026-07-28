@@ -2,22 +2,21 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n = s.length();
-        string ans = "";
+        int count[26] = {0};
         for(int i = 0; i < n/2; i++){
-            ans += s[i];
+            count[s[i] - 'a']++;
         }
-        string temp = "";
-        sort(ans.begin(), ans.end());
-        if(ans.size()* 2 < s.size()){
-            ans += s[n/2];
-            temp = ans;
+        int idx = 0;
+        for(int i = 0; i < 26; i++){
+            while(count[i] > 0){
+                s[idx] = (char)(i + 'a');
+                idx++;
+                count[i]--;
+            }
         }
-        else{
-            temp = ans;
-        } 
-        for(int i = n/2 - 1; i >= 0; i--){
-            ans += temp[i];
+        for(int i = 0; i < n/2; i++){
+            s[n - 1 - i] = s[i];
         }
-        return ans;
+        return s;
     }
 };
