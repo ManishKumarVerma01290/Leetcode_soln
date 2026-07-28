@@ -68,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 ## String Matching
 |  |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
