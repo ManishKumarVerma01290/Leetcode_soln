@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0008-string-to-integer-atoi) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
