@@ -48,11 +48,11 @@ public:
                 solve(i, vis, adj, st);
             }
         }
-        vector<int> temp;
-        while(!st.empty()){
-            temp.push_back(st.top());
-            st.pop();
-        }
+        // vector<int> temp;
+        // while(!st.empty()){
+        //     temp.push_back(st.top());
+        //     st.pop();
+        // }
         // for(auto ch : prerequisites){
         //     int i = ch[1];
         //     int j = ch[0];
