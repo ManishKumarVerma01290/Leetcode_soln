@@ -16,11 +16,11 @@ public:
         pathvis[i] = 0;
         return false;
     }
-    void solve(int i, vector<int>& vist, vector<vector<int>>& adj, stack<int>& st){
-        vist[i] = 1;
+    void solve(int i, vector<int>& vis, vector<vector<int>>& adj, stack<int>& st){
+        vis[i] = 1;
         for(auto ni : adj[i]){
-            if(!vist[ni]){
-                solve(ni, vist, adj, st);
+            if(!vis[ni]){
+                solve(ni, vis, adj, st);
             }
         }
         st.push(i);
@@ -39,11 +39,13 @@ public:
                 }
             }
         }
-        vector<int> vist(numCourses, 0);
+        for(int i = 0; i < vis.size(); i++){
+            vis[i] = 0;
+        }
         stack<int> st;
         for(int i = 0; i < numCourses; i++){
-            if(!vist[i]){
-                solve(i, vist, adj, st);
+            if(!vis[i]){
+                solve(i, vis, adj, st);
             }
         }
         vector<int> temp;
