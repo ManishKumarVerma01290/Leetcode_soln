@@ -53,18 +53,18 @@ public:
             temp.push_back(st.top());
             st.pop();
         }
-        for(auto ch : prerequisites){
-            int i = ch[1];
-            int j = ch[0];
-            int l = 0, h = temp.size() - 1;
-            while(l < h){
-                if(temp[l] == i && temp[h] == j && l >= h){
-                    return false;
-                }
-                l++;
-                h--;
-            }
-        }
+        // for(auto ch : prerequisites){
+        //     int i = ch[1];
+        //     int j = ch[0];
+        //     int l = 0, h = temp.size() - 1;
+        //     while(l < h){
+        //         if(temp[l] == i && temp[h] == j && l >= h){
+        //             return false;
+        //         }
+        //         l++;
+        //         h--;
+        //     }
+        // }
         return true;
     }
 };
