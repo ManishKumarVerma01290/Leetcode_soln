@@ -17,6 +17,9 @@ public:
             pq.pop();
             int dis = temp.first;
             int node = temp.second;
+            if(dis > dist[node]){
+                continue;
+            }
             for(auto ni : adj[node]){
                 int nv = ni.first;
                 int nwt = ni.second;
