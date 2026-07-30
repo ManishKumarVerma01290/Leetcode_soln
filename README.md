@@ -7,6 +7,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0796-rotate-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0796-rotate-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -81,6 +82,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
