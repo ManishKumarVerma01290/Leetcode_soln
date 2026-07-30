@@ -1,8 +1,14 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n = word.size();
-        int m = (n - 1)/8 + 1;
-        return m * (m - 1) * 4 + (n - (m - 1) * 8) * m;
+        int ans = 0;
+        int k = 1;
+        for(int i = 0; i < word.size(); i++) {
+            if(i > 0 && i % 8 == 0){
+                k++;
+            }
+            ans += k;
+        }
+        return ans;
     }
 };
