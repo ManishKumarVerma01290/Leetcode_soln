@@ -5,7 +5,11 @@ public:
         vector<vector<int>> adj(numCourses);
         for(auto i : prerequisites){
             adj[i[1]].push_back(i[0]);
-            indegree[i[0]]++;
+        }
+        for(int i = 0; i < numCourses; i++){
+            for(auto ni : adj[i]){
+                indegree[ni]++;
+            }
         }
         queue<int> q;
         for(int i = 0; i < numCourses; i++){
