@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Depth-First Search
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
@@ -112,6 +114,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0174-dungeon-game) |
+| [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -135,4 +138,8 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
