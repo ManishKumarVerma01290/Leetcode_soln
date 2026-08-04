@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -39,6 +40,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -159,4 +162,12 @@
 | ------- |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
