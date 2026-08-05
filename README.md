@@ -39,6 +39,7 @@
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
