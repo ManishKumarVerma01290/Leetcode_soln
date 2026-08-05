@@ -9,12 +9,12 @@ public:
             adj[u].push_back({v,wt});
         }
         vector<int> dist(n+1, INT_MAX);
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        set<pair<int, int>> st;
         dist[k] = 0;
-        pq.push({0, k});
-        while(!pq.empty()){
-            pair<int, int> temp = pq.top();
-            pq.pop();
+        st.insert({0, k});
+        while(!st.empty()){
+            pair<int, int> temp = *(st.begin());
+            st.erase(temp);
             int dis = temp.first;
             int node = temp.second;
             if(dis > dist[node]){
@@ -24,8 +24,11 @@ public:
                 int nnode = ni.first;
                 int nwt = ni.second;
                 if(nwt + dis < dist[nnode]){
+                    if(dist[nnode] != INT_MAX){
+                        st.erase({dist[nnode], nnode});
+                    }
                     dist[nnode] = nwt + dis;
-                    pq.push({dist[nnode], nnode});
+                    st.insert({dist[nnode], nnode});
                 }
             }
         }
