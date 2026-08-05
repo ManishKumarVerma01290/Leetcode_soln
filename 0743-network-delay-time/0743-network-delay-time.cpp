@@ -17,9 +17,9 @@ public:
             st.erase(temp);
             int dis = temp.first;
             int node = temp.second;
-            if(dis > dist[node]){
-                continue;
-            }
+            // if(dis > dist[node]){
+            //     continue;
+            // }
             for(auto ni : adj[node]){
                 int nnode = ni.first;
                 int nwt = ni.second;
