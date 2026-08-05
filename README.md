@@ -173,4 +173,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
