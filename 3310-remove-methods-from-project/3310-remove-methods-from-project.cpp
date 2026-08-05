@@ -18,15 +18,6 @@ public:
         if(!vis[k]){
             solve(k, vis, adj);
         }
-        int count = 0;
-        for(int i = 0; i < n; i++){
-            if(vis[i] == 0){
-                count++;
-            }
-        }
-        if(count == 0){
-            return {};
-        }
         for(int i = 0; i < n; i++){
             if(!vis[i]){
                 for(auto ni : adj[i]){
@@ -40,18 +31,12 @@ public:
                 }
             }
         }
-        vector<int> ans1, ans2;
+        vector<int> ans;
         for(int i = 0; i < n; i++){
             if(vis[i] == 0){
-                ans1.push_back(i);
+                ans.push_back(i);
             }
         }
-        for(int i = 0; i < n; i++){
-            ans2.push_back(i);
-        }
-        if(ans1.empty()){
-            return ans2;
-        }
-        return ans1;
+        return ans;
     }
 };
