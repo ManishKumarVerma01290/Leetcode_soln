@@ -26,6 +26,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -40,6 +41,7 @@
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -56,6 +58,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -65,6 +68,7 @@
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +78,7 @@
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -103,6 +108,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -187,8 +193,13 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
