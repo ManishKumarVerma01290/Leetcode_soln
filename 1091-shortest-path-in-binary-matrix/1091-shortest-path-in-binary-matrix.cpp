@@ -23,8 +23,8 @@ public:
                     int nr = r + dr;
                     int nc = c + dc;
                     if(nr >= 0 && nr < n && nc >= 0 && nc < n){
-                        if(grid[nr][nc] == 0 && dist[nr][nc] > dist[r][c] + 1){
-                            dist[nr][nc] = dist[r][c] + 1;
+                        if(grid[nr][nc] == 0 && dist[nr][nc] > dis + 1){
+                            dist[nr][nc] = dis + 1;
                             q.push({dist[nr][nc], {nr, nc}});
                         }
                     }
