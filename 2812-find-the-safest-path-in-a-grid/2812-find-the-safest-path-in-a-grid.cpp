@@ -1,12 +1,11 @@
 class Solution {
 public:
-    bool check(vector<vector<int>>& dist, int val){
+    bool check(vector<vector<int>>& dist, int val, vector<vector<int>>& vis){
         int n = dist.size();
         if(dist[0][0] < val){
             return false;
         }
         queue<pair<int, int>> q;
-        vector<vector<int>> vis(n, vector<int> (n, 0));
         q.push({0, 0});
         vis[0][0] = 1;
         int dr[] = {-1, 0, 1, 0};
@@ -71,7 +70,8 @@ public:
         }
         while(l <= h){
             int mid = l + (h - l)/2;
-            if(check(dist, mid)){
+            vector<vector<int>> vis(n, vector<int> (n, 0));
+            if(check(dist, mid, vis)){
                 ans = mid;
                 l = mid + 1;
             }
