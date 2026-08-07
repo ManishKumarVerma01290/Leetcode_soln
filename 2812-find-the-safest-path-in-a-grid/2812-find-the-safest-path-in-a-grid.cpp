@@ -44,14 +44,14 @@ public:
                 }
             }
         }
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
         while(!q.empty()){
             auto temp = q.front();
             q.pop();
             int dis = temp.first;
             int r = temp.second.first;
             int c = temp.second.second;
-            int dr[] = {-1, 0, 1, 0};
-            int dc[] = {0, 1, 0, -1};
             for(int k = 0; k < 4; k++){
                 int nr = r + dr[k];
                 int nc = c + dc[k];
