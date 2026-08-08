@@ -4,7 +4,7 @@ public:
     ll dp[2][12][12];
     ll dp_fxn(string &s, bool tight, ll idx, ll count) {
         if(idx == s.size()) {
-            return count;
+            return dp[tight][idx][count] = count;
         }
         if(dp[tight][idx][count] != -1) {
             return dp[tight][idx][count];
@@ -20,7 +20,7 @@ public:
             if(i == 1) {
                 ncount++;
             }
-            bool ntight = tight && (i == s[idx] - '0');
+            bool ntight = tight && (i == ub);
             ans += dp_fxn(s, ntight, idx + 1, ncount);
         }
         return dp[tight][idx][count] = ans;
