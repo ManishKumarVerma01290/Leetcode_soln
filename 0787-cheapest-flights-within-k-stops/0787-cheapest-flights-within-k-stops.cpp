@@ -2,7 +2,7 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k){
         vector<vector<pair<int, int>>> adj(n);
-        vector<vector<int>> dist(n, vector<int>(k + 3, 1e9));
+        vector<vector<int>> dist(n, vector<int>(k + 2, 1e9));
         for(auto i : flights){
             int u = i[0];
             int v = i[1];
