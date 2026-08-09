@@ -127,6 +127,7 @@
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -157,6 +158,7 @@
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
