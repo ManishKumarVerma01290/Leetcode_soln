@@ -1,10 +1,13 @@
 class Solution {
 public:
     using ll = long long;
-
+    ll dp[2][1024][11][2];
     ll dp_fxn(string &s, bool tight, ll mask, ll idx, bool lz){
         if(idx == s.size()){
             return 1;
+        }
+        if(dp[tight][mask][idx][lz] != -1){
+            return dp[tight][mask][idx][lz];
         }
         ll lb = 0, ub = 9;
         if(tight == true){
@@ -26,11 +29,12 @@ public:
                 ans += dp_fxn(s, ntight, nmask, idx + 1, nlz);
             }
         }
-        return ans;
+        return dp[tight][mask][idx][lz] = ans;
     }
 
     int numDupDigitsAtMostN(int n) {
         string s = to_string(n);
+        memset(dp, -1, sizeof(dp));
         ll ans = dp_fxn(s, true, 0, 0, true);
         return n - ans + 1;
     }
