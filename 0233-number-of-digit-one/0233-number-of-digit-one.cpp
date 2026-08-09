@@ -1,7 +1,7 @@
 class Solution {
 public:
     using ll = long long;
-    ll dp[2][12][12];
+    ll dp[2][11][10];
     ll dp_fxn(string &s, bool tight, ll idx, ll count) {
         if(idx == s.size()) {
             return dp[tight][idx][count] = count;
@@ -16,12 +16,8 @@ public:
         }
         ll ans = 0;
         for(ll i = lb; i <= ub; i++) {
-            ll ncount = count;
-            if(i == 1) {
-                ncount++;
-            }
             bool ntight = tight && (i == ub);
-            ans += dp_fxn(s, ntight, idx + 1, ncount);
+            ans += dp_fxn(s, ntight, idx + 1, count + (i == 1));
         }
         return dp[tight][idx][count] = ans;
     }
