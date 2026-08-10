@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp_fxn(string& s, int idx, bool tight, bool lz, int sum){
+    int dp_fxn(string& s, int idx, bool tight, int sum){
         if(idx == s.size()){
             return (sum % 2 == 0);
         }
@@ -13,13 +13,12 @@ public:
         for(int i = lb; i <= ub; i++){
             int nsum = sum + i;
             bool ntight = tight && (i == ub);
-            bool nlz = lz && (i == 0);
-            ans += dp_fxn(s, idx + 1, ntight, nlz, nsum);
+            ans += dp_fxn(s, idx + 1, ntight, nsum);
         }
         return ans;
     }
     int countEven(int num) {
         string s = to_string(num);
-        return dp_fxn(s, 0, 1, 1, 0) - 1;
+        return dp_fxn(s, 0, 1, 0) - 1;
     }
 };
