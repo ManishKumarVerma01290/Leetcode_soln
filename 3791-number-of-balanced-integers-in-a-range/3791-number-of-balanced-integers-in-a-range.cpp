@@ -3,11 +3,7 @@ public:
     using ll = long long;
     ll dp[2][17][301][17][2];
     ll dp_fxn(string& s, bool tight, ll idx, ll diff, ll count, bool lz) {
-
         if(idx == s.size()) {
-            if(count < 2) {
-                return 0;
-            }
             return (diff == 0);
         }
         if(dp[tight][idx][diff + 150][count][lz] != -1) {
@@ -38,6 +34,9 @@ public:
         return dp[tight][idx][diff + 150][count][lz] = ans;
     }
     long long countBalanced(long long low, long long high) {
+        if(low < 10){
+            low = 10;
+        }
         string a = to_string(low - 1);
         string b = to_string(high);
         memset(dp, -1, sizeof(dp));
