@@ -161,6 +161,7 @@
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
+| [3791-number-of-balanced-integers-in-a-range](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Memoization
 |  |
 | ------- |
