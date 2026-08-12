@@ -37,6 +37,6 @@ public:
                 }
             }
         }
-        return ways[n-1] % MOD;
+        return ways[n-1];
     }
 };
