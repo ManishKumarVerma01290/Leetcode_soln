@@ -45,6 +45,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -97,6 +98,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
@@ -163,11 +165,13 @@
 | [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -175,6 +179,7 @@
 | [0210-course-schedule-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,4 +247,12 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2180-count-integers-with-even-digit-sum) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 <!---LeetCode Topics End-->
