@@ -15,7 +15,7 @@ public:
                 Max = max(Max, j - i + 1);
                 j++;
             }
-            else {
+            else{
                 Max = max(Max, j - i + 1);
                 j++;
             }
