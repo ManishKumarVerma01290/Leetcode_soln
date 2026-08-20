@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> rank;
+    vector<int> size;
     vector<int> parent;
     int find_parent(int node){
         if(node == parent[node]){
@@ -14,20 +14,18 @@ public:
         if(pu == pv){
             return;
         }
-        if(rank[pu] < rank[pv]){
+        if(size[pu] < size[pv]){
             parent[pu] = pv;
-        }
-        else if(rank[pv] < rank[pu]){
-            parent[pv] = pu;
+            size[pv] += size[pu];
         }
         else{
             parent[pv] = pu;
-            rank[pu]++;
+            size[pu] += size[pv];
         }
     }
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        rank.resize(n, 0);
+        size.resize(n, 1);
         parent.resize(n);
         for(int i = 0; i < n; i++){
             parent[i] = i;
