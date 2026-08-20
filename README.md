@@ -27,6 +27,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -75,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -98,6 +100,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
@@ -270,4 +273,20 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
