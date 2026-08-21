@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
@@ -122,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -307,4 +309,16 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
