@@ -8,6 +8,7 @@
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -22,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -42,6 +44,7 @@
 | [0210-course-schedule-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
@@ -61,6 +64,7 @@
 | [0210-course-schedule-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
@@ -78,6 +82,7 @@
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
@@ -113,6 +118,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -155,6 +161,7 @@
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
