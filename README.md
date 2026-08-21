@@ -21,6 +21,7 @@
 | [0130-surrounded-regions](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
+| [0560-subarray-sum-equals-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
@@ -165,6 +166,7 @@
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
+| [0560-subarray-sum-equals-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -263,6 +265,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
