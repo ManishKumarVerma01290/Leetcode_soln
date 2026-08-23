@@ -10,6 +10,7 @@
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0796-rotate-string) |
+| [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -159,6 +160,7 @@
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -236,6 +239,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
