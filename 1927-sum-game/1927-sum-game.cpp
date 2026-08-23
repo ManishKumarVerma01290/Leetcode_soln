@@ -23,20 +23,8 @@ public:
             return true;
         }
         else{
-            if(left > right) {
-                if(sum_l - sum_r == -9 * (left - right) / 2){
-                    return false;
-                }
-            }
-            else if(right > left) {
-                if(sum_l - sum_r == 9 * (right - left) / 2){
-                    return false;
-                }
-            }
-            else{
-                if(sum_l == sum_r){
-                    return false;
-                }
+            if(sum_l - sum_r == 9 * (right - left) / 2) {
+                return false;
             }
         }
         return true;
