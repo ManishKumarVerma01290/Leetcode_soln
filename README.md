@@ -28,6 +28,7 @@
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -51,6 +52,7 @@
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
@@ -74,6 +76,7 @@
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0802-find-eventual-safe-states) |
@@ -92,6 +95,7 @@
 | [0547-number-of-provinces](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -107,6 +111,7 @@
 | [0200-number-of-islands](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
@@ -150,6 +155,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
@@ -247,6 +253,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
@@ -266,6 +273,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -276,6 +284,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2812-find-the-safest-path-in-a-grid) |
