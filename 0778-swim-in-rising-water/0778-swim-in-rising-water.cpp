@@ -6,7 +6,6 @@ public:
         dist[0] = 0;
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
         pq.push({grid[0][0], {0, 0}});
-        int Max = 0;
         while(!pq.empty()){
             auto temp = pq.top();
             pq.pop();
@@ -21,8 +20,9 @@ public:
             for(int k = 0; k < 4; k++){
                 int ni = i + di[k];
                 int nj = j + dj[k];
+                int Max = 0;
                 if(ni >= 0 && ni < n && nj >= 0 && nj < n){
-                    int Max = max(node, grid[ni][nj]);
+                    Max = max(node, grid[ni][nj]);
                     int idx = ni * n + nj;
                     if (Max < dist[idx]){
                         dist[idx] = Max;
