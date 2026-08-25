@@ -39,6 +39,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -191,6 +192,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
