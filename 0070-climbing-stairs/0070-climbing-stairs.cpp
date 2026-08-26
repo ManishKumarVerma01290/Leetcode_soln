@@ -1,13 +1,17 @@
 class Solution {
 public:
-    int t[46];
+    int t[48];
+    int solve(int n){
+        if(n == 1 || n == 2){
+            return n;
+        }
+        if(t[n] != -1){
+            return t[n];
+        }
+        return t[n] = solve(n - 1) + solve(n - 2);
+    }
     int climbStairs(int n) {
         memset(t, -1, sizeof(t));
-        t[1] = 1;
-        t[2] = 2;
-        for(int i = 3; i < n+1; i++){
-            t[i] = t[i-1] + t[i-2];
-        }
-        return t[n];
+        return solve(n);
     }
 };
