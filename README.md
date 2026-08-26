@@ -28,6 +28,7 @@
 | [0695-max-area-of-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
@@ -206,6 +207,7 @@
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
+| [0746-min-cost-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1012-numbers-with-repeated-digits) |
