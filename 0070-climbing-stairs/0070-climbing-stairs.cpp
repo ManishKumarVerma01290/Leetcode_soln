@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int t[48];
+    int t[46];
     int solve(int n){
         if(n == 1 || n == 2){
             return n;
