@@ -11,6 +11,7 @@
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
