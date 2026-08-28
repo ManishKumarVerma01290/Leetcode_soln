@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
