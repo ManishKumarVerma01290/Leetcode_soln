@@ -4,7 +4,6 @@ public:
         if(idx == s.size()){
             return sum_a == sum_b;
         }
-        int n = s.size();
         int lb = 0, ub = 9;
         if(tight){
             ub = s[idx] - '0';
@@ -16,7 +15,7 @@ public:
             }
             int nsum_a = sum_a;
             int nsum_b = sum_b;
-            if(idx < n / 2){
+            if(idx < s.size() / 2){
                 nsum_a += i;
             }
             else{
