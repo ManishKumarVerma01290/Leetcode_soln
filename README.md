@@ -178,6 +178,7 @@
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1927-sum-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2843-count-symmetric-integers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -293,6 +294,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
