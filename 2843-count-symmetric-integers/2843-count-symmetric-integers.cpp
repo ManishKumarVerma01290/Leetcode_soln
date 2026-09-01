@@ -1,8 +1,12 @@
 class Solution {
 public:
+    int t[2][6][27][27];
     int dp_fxn(string s, bool tight, int idx, int sum_a, int sum_b){
         if(idx == s.size()){
             return sum_a == sum_b;
+        }
+        if(t[tight][idx][sum_a][sum_b] != -1){
+            return t[tight][idx][sum_a][sum_b];
         }
         int lb = 0, ub = 9;
         if(tight){
@@ -24,13 +28,14 @@ public:
             bool ntight = tight && (i == ub);
             ans += dp_fxn(s, ntight, idx + 1, nsum_a, nsum_b);
         }
-        return ans;
+        return t[tight][idx][sum_a][sum_b] = ans;
     }
 
     int count(int x) {
         string s = to_string(x);
         int ans = 0;
         for(int len = 2; len <= s.size(); len += 2) {
+            memset(t, -1, sizeof(t));
             string t;
             if(len == s.size()){
                 t = s;
