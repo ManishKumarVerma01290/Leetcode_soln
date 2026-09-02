@@ -45,6 +45,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
 | ------- |
