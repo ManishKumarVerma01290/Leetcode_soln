@@ -20,7 +20,7 @@ public:
         if(odd == 1 || even == 1){
             return true;
         }
-        if(even > odd && odd != 1){
+        if(even >= odd && odd != 1){
             // change into even 
             for(int i = 0; i < odd - 1; i++){
                 ans[i] = nums1[i] - nums1[i + 1];
