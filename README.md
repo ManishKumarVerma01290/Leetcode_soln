@@ -46,6 +46,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String Matching
 |  |
 | ------- |
