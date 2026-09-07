@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0127-word-ladder) |
@@ -369,4 +370,12 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
