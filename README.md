@@ -48,6 +48,7 @@
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3903-smallest-stable-index-i) |
 ## Recursion
 |  |
 | ------- |
