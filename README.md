@@ -69,6 +69,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3310-remove-methods-from-project](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -382,4 +383,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
