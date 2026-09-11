@@ -44,6 +44,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3875-construct-uniform-parity-array-i) |
@@ -207,6 +208,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -305,6 +307,7 @@
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
