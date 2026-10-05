@@ -1,19 +1,25 @@
 class Solution {
 public:
-    int t[100];
-    int solve(int i, vector<int>& nums){
-        if(i >= nums.size()){
+    int solve(int idx, vector<int>& nums, vector<int>& dp){
+        if(idx == 0){
+            return nums[idx];
+        }
+        if(idx < 0){
             return 0;
         }
-        if(t[i] != -1){
-            return t[i];
+        if(dp[idx] != -1){
+            return dp[idx];
         }
-        int right = nums[i] + solve(i + 2, nums);
-        int left = solve(i + 1, nums);
-        return t[i] = max(left, right);
+        int take = 0, ntake = 0;
+        if(idx > 0){
+            take += nums[idx] + solve(idx - 2, nums, dp);
+        }
+        ntake += solve(idx - 1, nums, dp);
+        return dp[idx] = max(take, ntake);
     }
     int rob(vector<int>& nums) {
-        memset(t, -1, sizeof(t));
-        return solve(0, nums);
+        int n = nums.size();
+        vector<int> dp(n + 1, -1);
+        return solve(n - 1, nums, dp);
     }
 };
