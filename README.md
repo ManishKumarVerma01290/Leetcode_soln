@@ -230,6 +230,7 @@
 | [0198-house-robber](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -399,4 +400,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
