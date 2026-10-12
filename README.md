@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1584-min-cost-to-connect-all-points) |
@@ -155,6 +156,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [1051-height-checker](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -211,6 +213,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ManishKumarVerma01290/Leetcode_soln/tree/master/3483-unique-3-digit-even-numbers) |
