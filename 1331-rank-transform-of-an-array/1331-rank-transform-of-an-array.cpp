@@ -23,12 +23,12 @@ public:
             freq[temp[i]] = count;
             val = temp[i];
         }
-        vector<int> temp2;
+        temp.clear();
         for(int i = 0; i < n; i++){
             if(freq.find(arr[i]) != freq.end()){
-                temp2.push_back(freq[arr[i]]);
+                temp.push_back(freq[arr[i]]);
             }
         }
-        return temp2;       
+        return temp;       
     }
 };
